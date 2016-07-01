@@ -1,0 +1,150 @@
+html { 
+background:url(img/top.JPG);
+background-size: cover;
+}
+/*.topbar{
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	height: 60px;
+	background:url(img/top.JPG);
+	background-size: cover;
+}*/
+.hs{
+width:40px;
+position: absolute;
+	top: 10px;
+	left: 10px;
+}
+.hs:hover{
+	background-color: silver;
+	transition-duration: 1.9s;
+
+}
+.bs{
+	width: 40px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+.bs:hover{
+	background-color: grey;
+	transition-duration: 1.9s;
+}
+.nexts{
+	width: 39px;
+	position: absolute;
+	bottom: 0;
+	left:690px;
+	display: inline-block;
+}
+.nexts:hover{
+	width: 49px;
+}
+
+.usrs{
+	position: absolute;
+	top: 60px;
+	left:690px;
+}
+
+/*.logo{ 
+	height: 60px;
+	width: 100px;
+    position: absolute;
+	top: 0px;
+	left:667px;
+}*/
+
+.movs{
+position: absolute;
+left: 690px;
+top:400px;
+}
+.movs:hover{
+
+}
+.imgs{
+position: absolute;
+left: 600px;
+top:400px;
+}
+.imgs:hover{
+
+}
+.games{
+	position: absolute;
+left: 785px;
+top:400px;
+
+}
+
+.games:hover{
+
+}
+.head{
+	position: absolute;
+	bottom: 600px;
+	left: 610px;
+	color: orange;
+    font-family:times new roman;
+    border: 5px solid brown;
+}
+.head:hover{
+	border: 5px solid red;
+}
+
+.button {
+  border-radius: 8px;
+  background-color: black;
+  border: none;
+  color: white;
+  text-align: left;
+  font-family: times new roman
+  font-size: 38px;
+  padding: 5px;
+  width: 76px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  position: absolute;
+  left:0;
+  top: 200px;
+}
+
+.button2 {
+  border-radius: 8px;
+  background-color: black;
+  border: none;
+  color: white;
+  text-align: left;
+  font-family: times new roman
+  font-size: 38px;
+  padding: 5px;
+  width: 110px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  position: absolute;
+  left:0;
+  top: 230px;
+}
+
+.button3 {
+  border-radius: 8px;
+  background-color: black;
+  border: none;
+  color: white;
+  text-align: left;
+  font-family: times new roman
+  font-size: 38px;
+  padding: 5px;
+  width: 76px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  position: absolute;
+  left:0;
+  top: 260px;
+}
+
